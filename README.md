@@ -3,7 +3,7 @@ This project leverages data analytics and Power BI visualizations to explore fas
 
 Hey everyone! Welcome to the Electroworld Data Analytics Project repository! In this exciting journey of exploring data analytics, I've gathered insights from the Electroworld store's data. Let's dive into the details!  
 - **Power BI Dashboard:**
-  - Explore the interactive dashboard on Power BI: [Your Dashboard Link]
+  - Explore the interactive dashboard on Power BI: https://drive.google.com/drive/folders/1pi6KwB3mfeZpKLAZjQuaMKxxcR39wRdU
 
 ## Project Highlights
 - Acquired data from Electroworld, a fascinating store with a diverse product range.  
