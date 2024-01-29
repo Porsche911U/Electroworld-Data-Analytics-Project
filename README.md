@@ -1,7 +1,7 @@
 # Electroworld-Data-Analytics-Project
 This project leverages data analytics and Power BI visualizations to explore fascinating trends and patterns within Electroworld sales data.
 
-#Electroworld Data Analytics Project
+# Electroworld Data Analytics Project
 Hey everyone! Welcome to the Electroworld Data Analytics Project repository! In this exciting journey of exploring data analytics, I've gathered insights from the Electroworld store's data. Let's dive into the details!
 
 ##Project Highlights
